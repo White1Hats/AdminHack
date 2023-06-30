@@ -13,7 +13,7 @@
 * `pkg upgrade`
 * `pkg update`
 * `pkg install git`
-* `git clone https://github.com/White1Hats/atksql`
+* `git clone https://github.com/White1Hats/atqsql`
 * `cd atksql`
 * `bash setup.sh`
 
@@ -26,7 +26,7 @@
 * `apt update`
 * `apt upgrade`
 * `apt install git`
-* `git clone https://github.com/White1Hats/atksql`
+* `git clone https://github.com/White1Hats/atqsql`
 * `cd atksql`
 * `bash setup.sh`
 
