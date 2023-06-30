@@ -26,7 +26,7 @@
 * `apt update`
 * `apt upgrade`
 * `apt install git`
-* `git clone https://github.com/mishakorzik/AdminHack`
+* `git clone https://github.com/White1Hats/AdminHack`
 * `cd AdminHack`
 * `bash setup.sh`
 
@@ -42,7 +42,7 @@
 
 ## Screenshot
 
-#### here you can see a screenshot of AdminHack
+#### aqui você pode ver uma captura de tela do AdminHack
 <br>
 <p align="center">
 <img width="53.0%" src="src/IMG_20210809_124540.jpg"/> 
