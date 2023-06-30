@@ -14,7 +14,7 @@
 * `pkg update`
 * `pkg install git`
 * `git clone https://github.com/White1Hats/atksql`
-* `cd AdminHack`
+* `cd atksql`
 * `bash setup.sh`
 
 #### Tudo está pronto! Agora estamos esperando tudo para baixar!
@@ -27,7 +27,7 @@
 * `apt upgrade`
 * `apt install git`
 * `git clone https://github.com/White1Hats/atksql`
-* `cd AdminHack`
+* `cd atksql`
 * `bash setup.sh`
 
 ---
@@ -38,16 +38,5 @@
 
 #### Se houver problemas, olhe para baixo, haverá falha no download.
 ---
-
-
-## Screenshot
-
-#### aqui você pode ver uma captura de tela do AdminHack
-<br>
-<p align="center">
-<img width="53.0%" src="src/IMG_20210809_124540.jpg"/> 
-<img width="44.5%" src="src/IMG_20210814_122526.jpg"/>
-</p>
-
 
 ###### By white_hats: Report bug: Nuke System
