@@ -13,7 +13,7 @@
 * `pkg upgrade`
 * `pkg update`
 * `pkg install git`
-* `git clone https://github.com/White1Hats/AdminHack1`
+* `git clone https://github.com/White1Hats/atksql`
 * `cd AdminHack`
 * `bash setup.sh`
 
@@ -26,7 +26,7 @@
 * `apt update`
 * `apt upgrade`
 * `apt install git`
-* `git clone https://github.com/White1Hats/AdminHack1`
+* `git clone https://github.com/White1Hats/atksql`
 * `cd AdminHack`
 * `bash setup.sh`
 
