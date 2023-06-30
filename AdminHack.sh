@@ -55,9 +55,9 @@ banner() {
 	done
 echo -e "\t${colors[rand1]}             _       _   _              _   _           _         "
 echo -e "\t${colors[rand1]} __      __ | |__   (_) | |_    ___    | | | |   __ _  | |_   ___ "
-echo -e "\t${colors[rand1]} \ \ /\ / / | '_ \  | | | __|  / _ \   | |_| |  / _\ | | __| / __|"
+echo -e "\t${colors[rand1]} \ \ /\ / / |  _ \  | | | __|  / _ \   | |_| |  / _  | | __| / __|"
 echo -e "\t${colors[rand1]}  \ V  V /  | | | | | | | |_  |  __/   |  _  | | (_| | | |_  \__ \"
-echo -e "\t${colors[rand1]}   \_/\_/   |_| |_| |_|  \__|  \___|   |_| |_|  \__,_|  \__| |___/"
+echo -e "\t${colors[rand1]}   \_/\_/   |_| |_| |_|  \__|  \___|   |_| |_|  \__ _|  \__| |___/"
                                                                   
 	echo -e "                 \t${bd}${g}╭${w} Criador:  ${b}:${c} ${ul}white_hats{n}          ${g}${n}"
 	echo -e "                 \t${bd}${g}│${w} Versão ${b}:${w} 1.0.0                          ${g}${n}"
